@@ -3,7 +3,7 @@
 # Entropionics — Mall Foot Traffic & Customer Demographics Predictor
 
 > 🏆 Finalist — Microsoft Code Without Barriers Hackathon 2023  
-> 📩 Interview invitation received from Johnson & Johnson (Singapore)
+> 📩 Interview invitation received for Internship offer from Johnson & Johnson (Singapore)
 
 ## Overview
 A machine learning pipeline to identify high foot-traffic malls and 
