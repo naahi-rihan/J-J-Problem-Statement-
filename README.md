@@ -1,4 +1,4 @@
-🏆 Microsoft Code Without Barriers Hackathon 2023 Finalist | J&J interview nominee | IoT Engineer @ SDTL BD
+🏆 Microsoft Code Without Barriers Hackathon 2023 Finalist | J&J interview nominee |
 # J-J-Problem-Statement-
 # Entropionics — Mall Foot Traffic & Customer Demographics Predictor
 
